@@ -154,7 +154,7 @@ const questions = [
         ]  
     },
     {
-        question : "Which is the smallest country in the world?",
+        question : "Which is the smallest continent in the world?",
         answers : [
             { text : "Asia", correct: false},
             { text : "Australia", correct: true},
